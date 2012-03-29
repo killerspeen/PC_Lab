@@ -7,7 +7,7 @@
 CFLAGS = -Wall -g
 
 # Portul pe care asculta serverul
-PORT = 
+PORT = 45555
 
 # Adresa IP a serverului
 IP_SERVER = 
